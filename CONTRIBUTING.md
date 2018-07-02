@@ -12,6 +12,7 @@ Please note that this project is released with a [Contributor Code of Conduct](.
 - [Generate README TOC](#generate-readme-toc)
 - [Running tests](#running-tests)
   * [Airplane mode](#airplane-mode)
+- [Become a Maintainer](#become-a-maintainer)
 
 <!-- tocstop -->
 
@@ -58,3 +59,19 @@ Some of the tests depend on online connectivity. To skip them, set the `AIRPLANE
 $ export AIRPLANE=true
 $ npm test
 ```
+
+### Become a Maintainer
+
+Nock is an open source project. That means that we depend upon people to submit code patches, and that we depend upon maintainers to keep work going. This means people who either work on their own time, or who take time while they are doing their jobs elsewhere to help out. We'd love to have more maintainers!
+
+At the moment, there isn't a clear "Do X to become Y" for Nock. The general rule is this: get involved. If you want to be one of the maintainers of Nock, along with all of the fame and glory and 🎉 that entails, then start contributing any way you can. Here are some ideas:
+
+- Suggest labels for issues;
+- Help diagnose bugs;
+- Suggest enhancements that will help Nock be better;
+- Review other people's PRs! You don't need to be a maintainer to say that you approve of one;
+- Generally be welcoming and helpful!
+
+We'll notice. If you'd like to become a maintainer with commit access, speak to one of the other maintainers (see the list of contributors and look at the people who've recently merged PRs) on another medium, like Twitter, and ask if you can help out. We'd love to help!
+
+Here, we believe that helpful community members become frequent contributors, and that great contributors make the best maintainers. Our doors are open.
